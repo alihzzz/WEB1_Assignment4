@@ -5,7 +5,6 @@ body {
     background-color: #f4f4f9;
 }
 
-/* Навигационная панель */
 nav {
     background-color: #333;
     padding: 10px;
@@ -27,7 +26,6 @@ nav a:hover {
     border-radius: 4px;
 }
 
-/* Контейнер и элементы формы */
 .form-container {
     max-width: 500px;
     margin: 0 auto;
